@@ -1,0 +1,2 @@
+#Heads Up!
+This project contains previous assignments that have been modified for assignment 14.05 to incorporate the this variable in Java into the old source files. These versions of code were modified on August 25, 2015.
