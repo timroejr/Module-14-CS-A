@@ -1,5 +1,0 @@
-29788.34	153.59	0.11	4	5	false	true	true	true
-12543.45	90.56	0.11	1	2	false	false	false	false
-42321.12	179.33	0.11	6	5	true	true	true	true
-32389.72	160.24	0.11	4	0	false	true	true	true
-45762.27	190.32	0.11	7	10	false	true	true	true
