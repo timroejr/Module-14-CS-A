@@ -19,7 +19,6 @@ public class FrequencyAnalysis {
 		Scanner scanner = new Scanner(in);
 		while (scanner.hasNextLine()) {
 			String data = scanner.nextLine();
-			data.trim();
 			data = data.toLowerCase();
 			int count = 0;
 			int index = 0;
@@ -34,11 +33,12 @@ public class FrequencyAnalysis {
 				}
 				int total =+ count;
 				totalCount = totalCount + count;
-				//System.out.println(total);
 				characterCount.add(index, total);
 				index++;
 			}
+			
 		}
+		
 	}
 	
 	public static void getTotalCount() {
